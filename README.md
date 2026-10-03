@@ -197,3 +197,7 @@ ddev exec vendor/bin/phpunit -c dev/tests/integration/phpunit.xml.dist \
 ## Licence
 
 MIT. See [LICENSE](LICENSE).
+
+---
+
+Docs, background and related modules: [brocode.at](https://brocode.at/modules/module-composite-stock-status/)
